@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B0770F3-87DE-487A-8DA1-04E17C9C20E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5ADC3696-8024-4BC0-B156-3F580224768B",
+    "height": 20,
+    "width": 18,
+    "x": 3,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2328E8DB-B788-4ED1-8914-E6D52B165696"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD14D3D8-BFCC-4E69-A5F9-DC2836AB98D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "7783D151-0A5D-4226-A85E-E38F3B4E1580"
+    },
+    {
+      "class": "shapePath",
+      "id": "CEFEBC2E-7F2A-490F-B2AC-613906E59DBB"
+    }
+  ],
+  "name": "book",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52A1EB74-F253-41D0-9BC5-84D4062D5136",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

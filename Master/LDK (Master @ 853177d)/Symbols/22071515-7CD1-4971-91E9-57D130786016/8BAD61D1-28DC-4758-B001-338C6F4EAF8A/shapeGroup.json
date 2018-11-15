@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8BAD61D1-28DC-4758-B001-338C6F4EAF8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "62125E97-2531-440A-B112-BEDC06B88FD2",
+    "height": 20,
+    "width": 15,
+    "x": 4.5,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E7320D69-3F2A-4497-B79D-49BD95A56931"
+    },
+    {
+      "class": "shapePath",
+      "id": "65DFADAC-A350-4F7C-9C0F-8239887EF8F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "96E5C4D0-FE5E-40F5-9040-E983657F2C79"
+    },
+    {
+      "class": "shapePath",
+      "id": "A903D882-3FBC-4C5D-8F2F-5745CB3B854C"
+    }
+  ],
+  "name": "file-video",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "907E7F47-6E0B-44B1-975D-F94B674C75AC",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "48E39D33-24CA-4EC5-9EA1-737C1A63E70B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EE896F51-B8D1-418C-8988-6AE8C755EA4E",
+    "height": 17.5,
+    "width": 18,
+    "x": 3,
+    "y": 3.25
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F1A41070-5520-4E5F-8F56-B30524E5CCD0"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D8C6799-49AB-4752-9283-F2B340180A54"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D03D6C9-E7BE-44E5-8CF8-BA529704E6B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "B73CECE6-1194-44E6-A802-CEFD0A9A47EB"
+    }
+  ],
+  "name": "beer",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "26F710A9-E82C-4157-83CC-FCB61006BBFE",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

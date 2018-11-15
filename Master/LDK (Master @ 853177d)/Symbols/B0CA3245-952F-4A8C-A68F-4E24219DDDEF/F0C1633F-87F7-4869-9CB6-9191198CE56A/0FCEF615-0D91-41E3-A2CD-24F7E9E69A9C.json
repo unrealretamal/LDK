@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0FCEF615-0D91-41E3-A2CD-24F7E9E69A9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB98E53B-0F5E-4BF7-B796-D6D9FA9E711E",
+    "height": 482,
+    "width": 386.613860953885,
+    "x": 422,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "2: Molecules / Teaser / With Image",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BDEABF07-947A-4332-973A-EAE533A2FC83",
+      "overrideName": "D5D3CCE7-22C0-40FF-A641-4000CFED373E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/621b08b9eca1512bebeb66ede7f7b4d2b6bc7945.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BF9F490-9DB1-4C50-9BE2-2BA5B1D30A1C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE1CA848-D9F0-4771-ABAC-099502DFC7C7",
+  "verticalSpacing": 0
+}

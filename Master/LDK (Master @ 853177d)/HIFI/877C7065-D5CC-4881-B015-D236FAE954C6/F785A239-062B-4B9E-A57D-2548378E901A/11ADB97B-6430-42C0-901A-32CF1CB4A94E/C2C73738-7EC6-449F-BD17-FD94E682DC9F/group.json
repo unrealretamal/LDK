@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2C73738-7EC6-449F-BD17-FD94E682DC9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70207A73-5B0B-4EA3-99B9-04E82D4A8051",
+    "height": 482,
+    "width": 386,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C23A05C3-6816-4F9B-A2F6-B090D567529A"
+    },
+    {
+      "class": "rectangle",
+      "id": "33219FC3-AE16-4FC2-897B-2311DE308221"
+    },
+    {
+      "class": "text",
+      "id": "C6171CFC-1F61-4B5A-983C-56D4CE680A1F"
+    },
+    {
+      "class": "rectangle",
+      "id": "0AFB82F7-0DD7-4C34-A597-0BC93AC52EF9"
+    },
+    {
+      "class": "text",
+      "id": "8527833B-2DAC-4C09-A405-CFA6D4D3EBA9"
+    },
+    {
+      "class": "text",
+      "id": "33A55EAC-BA0B-4D5A-8C1C-8CBF3907E147"
+    }
+  ],
+  "name": "2: Molecules / Teaser / With Image",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FF5CF3C-E40A-4DDC-A489-E7D9D3C65564",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

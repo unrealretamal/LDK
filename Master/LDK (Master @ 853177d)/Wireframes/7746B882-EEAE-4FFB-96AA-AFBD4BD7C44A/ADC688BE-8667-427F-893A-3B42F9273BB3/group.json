@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADC688BE-8667-427F-893A-3B42F9273BB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 750,
+    "width": 1365,
+    "x": 41,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B315548D-6287-4B49-8E92-F4467BEE3CC3"
+    },
+    {
+      "class": "text",
+      "id": "BA083C71-BF38-40B1-8F1E-CB6AE9E7DBEC"
+    },
+    {
+      "class": "text",
+      "id": "D1931F71-5E89-4FBA-826D-B782B224D4DA"
+    },
+    {
+      "class": "text",
+      "id": "4791B61D-C956-42FB-AD7B-8B61C4070D13"
+    }
+  ],
+  "name": "hero-slider",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

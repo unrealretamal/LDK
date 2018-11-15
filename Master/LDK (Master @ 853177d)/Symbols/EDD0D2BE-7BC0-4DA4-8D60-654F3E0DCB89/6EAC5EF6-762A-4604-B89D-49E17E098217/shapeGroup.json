@@ -1,0 +1,123 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6EAC5EF6-762A-4604-B89D-49E17E098217",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CB667100-F112-4AE9-8F91-2803334D8FA6",
+    "height": 13.5,
+    "width": 20,
+    "x": 2,
+    "y": 5.25
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "592939B4-08B6-4A27-82C6-4F2E1FF6ED0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "3CC54704-FF3C-4AA3-86F1-8A9730490715"
+    },
+    {
+      "class": "shapePath",
+      "id": "327AD8D9-53A8-4028-951A-38E4C915CFEB"
+    },
+    {
+      "class": "shapePath",
+      "id": "D9A4CAF8-BD84-4350-872A-AFB6CC023460"
+    },
+    {
+      "class": "shapePath",
+      "id": "F2B93BC6-57FE-415A-9AA6-E675651B8B2C"
+    },
+    {
+      "class": "shapePath",
+      "id": "D75EACFD-1AF7-470F-9AF2-DE72C5B65C59"
+    },
+    {
+      "class": "shapePath",
+      "id": "54E1A6BB-4771-474B-AA69-D292773089AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "92CB34BC-6823-40C9-A314-F3FC53F464F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "7EDB9AEE-B971-4D63-906D-F2D7AA5D82A9"
+    },
+    {
+      "class": "shapePath",
+      "id": "CCA452D6-DE3B-45E8-8DC7-6EA6ED06B91D"
+    },
+    {
+      "class": "shapePath",
+      "id": "90EB7634-EA93-456E-9683-447662C89033"
+    },
+    {
+      "class": "shapePath",
+      "id": "127D2445-6E20-422F-AA1A-D391C781E168"
+    },
+    {
+      "class": "shapePath",
+      "id": "5A4C0554-CA9D-4BBD-A282-7422794ABB5F"
+    },
+    {
+      "class": "shapePath",
+      "id": "632FCAF1-8CD1-4735-843A-9415E2A449F8"
+    }
+  ],
+  "name": "keyboard",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BA68312-55AB-4D88-9813-115EE418AA4E",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

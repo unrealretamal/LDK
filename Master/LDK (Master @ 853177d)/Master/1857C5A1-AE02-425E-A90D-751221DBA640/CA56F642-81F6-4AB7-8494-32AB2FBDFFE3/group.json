@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CA56F642-81F6-4AB7-8494-32AB2FBDFFE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A1A71F47-9A5A-4772-96FD-2AD92EF59385",
+    "height": 1465,
+    "width": 345,
+    "x": 14,
+    "y": 374
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "33D31469-6B36-4112-907D-654D294DAAF0"
+    },
+    {
+      "class": "rectangle",
+      "id": "24C6E39D-2D63-4DFA-A541-CBB8121D6174"
+    },
+    {
+      "class": "group",
+      "id": "A4A09F52-382F-4B9A-B29E-B1DFBBE2FA19"
+    }
+  ],
+  "name": "Benefit",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB8FDB24-C1C0-4D5B-8ECC-9BD54B6F8246",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

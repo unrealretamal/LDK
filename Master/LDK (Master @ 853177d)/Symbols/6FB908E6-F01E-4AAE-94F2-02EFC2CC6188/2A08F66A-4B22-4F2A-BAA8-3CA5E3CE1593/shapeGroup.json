@@ -1,0 +1,91 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A08F66A-4B22-4F2A-BAA8-3CA5E3CE1593",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C6A14AB5-6AE2-409D-852C-8DD99ED86782",
+    "height": 18,
+    "width": 20,
+    "x": 2,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6AA0BC56-7C4D-4E85-A5F4-544C75A6E525"
+    },
+    {
+      "class": "shapePath",
+      "id": "78E7DC78-1D58-421C-BCAA-7B0269434B61"
+    },
+    {
+      "class": "shapePath",
+      "id": "9E4F473E-BA77-4598-A0F9-856737657C00"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E1C8D8D-9CDB-40A9-824D-A5D290023973"
+    },
+    {
+      "class": "shapePath",
+      "id": "13E7C5B0-EC06-45A7-9893-74FDC9031807"
+    },
+    {
+      "class": "shapePath",
+      "id": "BA62B40F-4904-49F8-8989-78E3B77C5C87"
+    }
+  ],
+  "name": "gem",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10320F24-06CD-4FA6-9F2E-689A03B069EE",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

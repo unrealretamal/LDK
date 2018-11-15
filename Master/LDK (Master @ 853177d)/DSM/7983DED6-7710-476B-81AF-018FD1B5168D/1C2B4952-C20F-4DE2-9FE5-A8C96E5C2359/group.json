@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C2B4952-C20F-4DE2-9FE5-A8C96E5C2359",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53B7E5EA-6D33-4BF0-91B5-BB300C2DA1B6",
+    "height": 240,
+    "width": 590,
+    "x": 345,
+    "y": 182
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FE770332-474F-466D-BA17-4EFDF7C35332"
+    },
+    {
+      "class": "text",
+      "id": "6156AC24-0E65-4429-A087-763719AA1D38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F16BD74C-EDAB-4B5F-8008-5C22070E0F2D"
+    },
+    {
+      "class": "text",
+      "id": "EF17DBF2-A184-43B0-B23E-10706237E4F4"
+    }
+  ],
+  "name": "Search Fields",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA63E2A1-F35D-416C-882B-4A119F401F36",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

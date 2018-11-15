@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A5B6F1E-7485-4798-B305-08616044B09A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA9B3868-E4B5-4ECA-AA64-5307E5D5FBBF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "631DC881-30A7-4D95-ADBB-B2F6422B1CA5",
+    "height": 384,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0631654E-8228-4FB5-8B99-C4A7E03105F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "618CA2D1-F59E-4073-BF45-B16AF52B9A15"
+    },
+    {
+      "class": "group",
+      "id": "066E2A38-68A4-418A-8CEF-9B0BFC3AA6AC"
+    }
+  ],
+  "name": "4: systems / contact / mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4F5C9AC-FA14-417C-8EC0-C8E6B2C86333",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

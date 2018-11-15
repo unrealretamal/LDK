@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "43A2AB7A-6039-4935-8D3B-07517EC5F278",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "05DCDCA3-639E-4E3D-8FFE-36C8F3C36BE8",
+    "height": 20,
+    "width": 15,
+    "x": 4.5,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D161A7DF-CB89-4E87-8A8C-EBE695E85235"
+    },
+    {
+      "class": "shapePath",
+      "id": "2F930EA6-9338-4E2E-899E-572FFE51E0EB"
+    },
+    {
+      "class": "shapePath",
+      "id": "298C9970-49F8-4E60-A095-967A1BABADFE"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4567796-A2FD-4549-9475-C43F4B54D46F"
+    },
+    {
+      "class": "shapePath",
+      "id": "80287CA4-50E7-43A4-8B0A-3920BA8B4BF7"
+    }
+  ],
+  "name": "file-powerpoint",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C00F1195-D8A3-4302-985F-1B76D18CEF41",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}
