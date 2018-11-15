@@ -1,0 +1,98 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "17DA41F2-06B6-494F-B030-58F1EF456F2C",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B489667C-67E8-4697-803B-6368B040A70D",
+    "height": 1.593438781487992,
+    "width": 0.2831655463715004,
+    "x": 7.030184712111543,
+    "y": 8.107791446983011
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.2591010539845138, 6.9661052525499998e-16}",
+      "curveMode": 4,
+      "curveTo": "{0.23827594406537214, 6.9661052525499998e-16}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.23827594406537214, 6.9661052525499998e-16}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.12039233779810901, 0.65931372549019607}",
+      "curveMode": 4,
+      "curveTo": "{1.1625365165597279, 0.78676470588235325}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.48658475458624578, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.23827594406537214, 0}",
+      "curveMode": 4,
+      "curveTo": "{-0.10659740388028356, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.23827594406537214, 0}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EEAAFF43-DDCA-4945-A159-AA8ED0F6A1AB",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  }
+}

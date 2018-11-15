@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5DA18F75-7386-4402-8C1F-63EF5A970F50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9C25B8CA-8175-4543-A67B-CAF2A96FAD8C",
+    "height": 15.75,
+    "width": 20,
+    "x": 2,
+    "y": 4.125
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4E80475E-C2A1-4538-9E85-B02DD7F98AF1"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8E688A5-839B-4DDB-A16D-7797412D81C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "6F91489A-B932-41F4-9C06-088BF65F9349"
+    },
+    {
+      "class": "shapePath",
+      "id": "C267E82F-4DCE-4AE3-9F36-F7EA1B877A42"
+    },
+    {
+      "class": "shapePath",
+      "id": "330B68E5-F2C1-4E37-9957-341736241BEE"
+    }
+  ],
+  "name": "credit-card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8662B7A8-EE89-4C3C-A9D0-F4ADD23C7006",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

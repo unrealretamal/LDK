@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9979DF87-D4B4-4415-B9F1-FD449BA0E46C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 92,
+    "width": 375,
+    "x": 40,
+    "y": 150
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4CAE075F-B7B5-4D60-96B0-801220D0B79A"
+    },
+    {
+      "class": "rectangle",
+      "id": "F25A9E38-A9CD-4494-882F-213DEDAAF2A4"
+    },
+    {
+      "class": "bitmap",
+      "id": "FCBCC0C3-0C59-4775-96F9-BA4060AE205C"
+    },
+    {
+      "class": "group",
+      "id": "6FA30AC3-90A7-4199-9150-50DB75046C7E"
+    },
+    {
+      "class": "group",
+      "id": "9B647ECB-2A81-4692-9DE8-61E2FAD04EEC"
+    }
+  ],
+  "name": "1: Atoms / Buttons / Primary / Text / Default",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

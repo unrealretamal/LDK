@@ -1,0 +1,95 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8ABC4E30-8513-47A6-90EF-AF9E641AA2D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "964C65C7-5A6F-4DD4-B6A2-FEF2BD23BC64",
+    "height": 20,
+    "width": 18,
+    "x": 3,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "748CCB72-FE1B-4B8D-B742-A5ED31CB7A0D"
+    },
+    {
+      "class": "shapePath",
+      "id": "F610FC8A-A974-4212-924A-1C0B7869A087"
+    },
+    {
+      "class": "shapePath",
+      "id": "B44A8D22-DCF5-45A0-869F-888212AC924A"
+    },
+    {
+      "class": "shapePath",
+      "id": "EB9BCBC3-30DB-49BC-9CEF-64A17A766654"
+    },
+    {
+      "class": "shapePath",
+      "id": "5E8C19B7-B482-4F4E-8E11-20B579333D97"
+    },
+    {
+      "class": "shapePath",
+      "id": "C5598746-DA9B-473B-9CC8-CBA899DE4398"
+    },
+    {
+      "class": "shapePath",
+      "id": "7FC15FA5-59FB-4BDD-8178-F61BA0B406E6"
+    }
+  ],
+  "name": "hospital",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F55140C6-AB64-4E6F-805F-EA99AF078A37",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

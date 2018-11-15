@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1DA7CFA7-E8E6-4B97-8CCC-371EA912DBEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E304033-3975-45E4-93A0-6D91765F2122",
+    "height": 40,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9AD1DB2A-20D7-42FA-B35F-2725670A254C"
+    },
+    {
+      "class": "text",
+      "id": "9C5C8564-9517-449C-9BC9-E8010791B7A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B56B4D6C-4F26-4459-B2FE-84B9BAD3718D"
+    }
+  ],
+  "name": "bg-tel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06537EE2-7118-4A1C-B9F6-98DEC8EDC776",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

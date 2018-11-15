@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE608CD8-3329-4B82-B3C6-5EA84150C50B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3F701C8B-70B0-4BBD-AEB8-8B0887A13374",
+    "height": 15.74784488988234,
+    "width": 19.99652988103422,
+    "x": 2.00173505948289,
+    "y": 4.126077555058828
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4393BD3F-A655-4571-95FC-F7B88CFA2947"
+    },
+    {
+      "class": "shapePath",
+      "id": "AB157BAE-FA9E-45EE-9E08-773D847D1AEC"
+    },
+    {
+      "class": "shapePath",
+      "id": "38B69930-7A29-4E32-9431-A21956D27CE2"
+    },
+    {
+      "class": "shapePath",
+      "id": "4685C8BE-11F1-4813-9BC2-57B79B9DB8BB"
+    },
+    {
+      "class": "shapePath",
+      "id": "9CF787CA-7823-4E84-B67D-69FD5F301A8D"
+    }
+  ],
+  "name": "comment-alt",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8DFBB62B-AF15-441C-931A-4614F2C372A0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

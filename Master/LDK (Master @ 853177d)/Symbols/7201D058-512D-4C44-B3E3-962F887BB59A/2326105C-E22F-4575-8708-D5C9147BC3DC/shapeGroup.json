@@ -1,0 +1,119 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2326105C-E22F-4575-8708-D5C9147BC3DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AEF2B279-66F6-4A52-88EE-68368E9C1D1E",
+    "height": 13.5,
+    "width": 20,
+    "x": 2,
+    "y": 5.25
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B6A7526B-D990-473A-945B-EE61F3BD83C6"
+    },
+    {
+      "class": "shapePath",
+      "id": "CFFC7E7A-07F6-413C-8426-75EA9D9E4D6A"
+    },
+    {
+      "class": "shapePath",
+      "id": "DBE7275D-48A5-4545-897B-2D925D018259"
+    },
+    {
+      "class": "shapePath",
+      "id": "B177AB94-B810-40ED-9B27-B3A2B24D8656"
+    },
+    {
+      "class": "shapePath",
+      "id": "4F0EB802-1A86-4479-A2EC-BDE7310C878B"
+    },
+    {
+      "class": "shapePath",
+      "id": "8B7B1E9E-5063-4795-B22B-3C588C228E77"
+    },
+    {
+      "class": "shapePath",
+      "id": "4467EA2C-BAFA-403C-AE69-10076DA74D69"
+    },
+    {
+      "class": "shapePath",
+      "id": "B2C73919-0A05-45FC-98EF-62E57EF81E71"
+    },
+    {
+      "class": "shapePath",
+      "id": "88376383-523F-4340-9762-65C560A966B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "40A9C9BD-504B-4E14-B19C-3B88F5D0EAC3"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D1C9B64-001B-438D-A68C-467E20A09387"
+    },
+    {
+      "class": "shapePath",
+      "id": "7988D335-CDDE-444F-9CEB-69DA1FA2CCF0"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A9F476E-C90D-4004-8D2F-AC5E6305FE9A"
+    }
+  ],
+  "name": "keyboard",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8704F49-8970-4112-8527-75981F0FA88B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

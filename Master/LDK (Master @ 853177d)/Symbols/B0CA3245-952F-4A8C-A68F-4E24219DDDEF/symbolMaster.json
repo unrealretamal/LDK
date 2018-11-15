@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1205A4AF-2BBA-4909-8D11-9BAF9CE515DF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1188,
+  "clippingMaskMode": 0,
+  "do_objectID": "B0CA3245-952F-4A8C-A68F-4E24219DDDEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6DB720AD-5AD8-49AC-A0D3-D01789CA89E2",
+    "height": 885,
+    "width": 1440,
+    "x": 31386,
+    "y": 985
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "125795A6-1BE4-42C2-BC52-FCD0E0E61B1A",
+    "guides": [
+      528
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2134288C-2DFA-4B39-956F-28F75A1A028B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "429CAA9D-C2F5-4844-8154-8391A05D45C6"
+    },
+    {
+      "class": "group",
+      "id": "F0C1633F-87F7-4869-9CB6-9191198CE56A"
+    },
+    {
+      "class": "group",
+      "id": "FF899915-1BA9-453A-B24E-149F999F97DB"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70.66666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 34.72727272727273,
+    "guttersOutside": false,
+    "horizontalOffset": 105,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1230
+  },
+  "name": "4: Systems / servicies / desktop-4",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "64BD62A9-A02C-4490-933E-4986B8C4EDD4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8AF1DB14-56A0-4CEE-BA8C-AD4447BC35B9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8EC5256E-624F-4356-AF29-F9EEB97D31C1",
+    "guides": [
+    ]
+  }
+}

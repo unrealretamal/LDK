@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9500000000000001,
+    "green": 0.9500000000000001,
+    "red": 0.9500000000000001
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 8786,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3EF66A9-A5C7-4BF9-9D43-8C0A767D1C2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 192,
+    "width": 300,
+    "x": 16700,
+    "y": 2580
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4338A66F-845D-4B4D-AF0A-D92CDDEF859A"
+    },
+    {
+      "class": "group",
+      "id": "FE4C124B-8278-4EA4-9D67-D7D6A56BC3B6"
+    },
+    {
+      "class": "text",
+      "id": "FF9FBCFA-A6AC-4BFA-99CE-4CCD69DA1B16"
+    },
+    {
+      "class": "text",
+      "id": "FB80701E-8634-43E2-9696-5900D1E17239"
+    }
+  ],
+  "name": "2: Molecules / Teaser / Without Image",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E82FD876-9DBC-4ED2-BDE6-E231E95F91B9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

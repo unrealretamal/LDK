@@ -1,0 +1,101 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AAB87F5F-7A1D-4012-ACCD-5DBC82F549ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80FF91F6-3930-4EC9-9C46-90EBEC72150F",
+    "height": 26.99999999999999,
+    "width": 144.5165165165161,
+    "x": 912.4834834834837,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C0D4B0B6-CF87-43EB-A31B-58049A8ACB9B"
+    },
+    {
+      "class": "shapePath",
+      "id": "B1040FC0-C603-4F65-BB1B-69B4A16D92A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "18AD4BBB-2DEE-4490-A622-FC7E302BF7B7"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B067AD7-0011-419C-A1A4-AFDD4D80A491"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9247CBE-90D6-4B72-8120-53CBC934E090"
+    },
+    {
+      "class": "shapePath",
+      "id": "FE322741-360B-4841-9CBA-FD2B4131E183"
+    },
+    {
+      "class": "shapePath",
+      "id": "712C4FD0-AB2C-4A18-B886-DEFD1BEED582"
+    }
+  ],
+  "name": "Fill 28",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAD0B8C5-04D4-4942-B0B7-7BF575B22760",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7727997448979592,
+          "green": 0.6171069655458267,
+          "red": 0.5733183713530393
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

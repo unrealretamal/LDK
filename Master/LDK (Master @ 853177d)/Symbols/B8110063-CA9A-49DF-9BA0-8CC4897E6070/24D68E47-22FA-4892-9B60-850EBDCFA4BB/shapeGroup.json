@@ -1,0 +1,131 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "24D68E47-22FA-4892-9B60-850EBDCFA4BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B49A4851-FE12-44CD-8A9C-A8CF8EBE9455",
+    "height": 17.5,
+    "width": 20,
+    "x": 2,
+    "y": 3.25
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E1A7BA5C-4703-45AE-BA80-D64C0DD618F0"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D077231-A53B-4F73-8D59-2245483CE4EE"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D04EA2B-68B1-45A6-A43D-107E1C24B342"
+    },
+    {
+      "class": "shapePath",
+      "id": "F56A9BF6-461E-4C25-9182-5AB8332A278F"
+    },
+    {
+      "class": "shapePath",
+      "id": "C8084002-DB43-451B-8D97-873E722A1372"
+    },
+    {
+      "class": "shapePath",
+      "id": "1CBB58E6-6D96-4893-9CF8-4569DE664F7B"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB81BDBD-FD20-48A5-84C8-0E83B10C2CE4"
+    },
+    {
+      "class": "shapePath",
+      "id": "B9C72911-5F58-45AF-A042-B79BFA19DC02"
+    },
+    {
+      "class": "shapePath",
+      "id": "23525365-57C7-4306-BF64-FA76E53BEB54"
+    },
+    {
+      "class": "shapePath",
+      "id": "366A2E1A-2B34-4447-9D8B-A39989C992EF"
+    },
+    {
+      "class": "shapePath",
+      "id": "824A1535-39F0-4D4B-AC8F-73826486DAFD"
+    },
+    {
+      "class": "shapePath",
+      "id": "CF513809-3989-4F83-AD7E-5F38A60A7E04"
+    },
+    {
+      "class": "shapePath",
+      "id": "058FC993-01A3-4680-8D9F-E38A34FBE088"
+    },
+    {
+      "class": "shapePath",
+      "id": "08160A43-6F88-4F9F-AE9E-4BC21FA99992"
+    },
+    {
+      "class": "shapePath",
+      "id": "BA6342B7-AE3A-47BC-B88C-F8D41FFD890D"
+    },
+    {
+      "class": "shapePath",
+      "id": "C4A1D235-894A-48F3-8113-4D6BA56F529C"
+    }
+  ],
+  "name": "shower",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "570AC8C7-4312-4982-AD0A-AA5C9639D4CB",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

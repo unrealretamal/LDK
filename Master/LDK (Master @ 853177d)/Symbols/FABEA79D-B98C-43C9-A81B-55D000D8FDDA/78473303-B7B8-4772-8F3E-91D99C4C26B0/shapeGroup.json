@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "78473303-B7B8-4772-8F3E-91D99C4C26B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "53B0F1AD-049E-4E17-B59F-511742B8CB95",
+    "height": 20,
+    "width": 18,
+    "x": 3,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0BF5F764-DDEF-408A-8010-A7BD2A4407A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "560BAEC1-9247-47E0-A2A8-EFBF671E1691"
+    },
+    {
+      "class": "shapePath",
+      "id": "3FDE2FFA-071B-4834-A4EA-0051117BC086"
+    },
+    {
+      "class": "shapePath",
+      "id": "A4BBE339-2330-4536-8AD1-41DEC5772B98"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9A7FC28-A633-4EE4-A46A-C15A57B857CF"
+    }
+  ],
+  "name": "birthday-cake",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FB32EE1-77B3-4087-B8E6-467B77384A3A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

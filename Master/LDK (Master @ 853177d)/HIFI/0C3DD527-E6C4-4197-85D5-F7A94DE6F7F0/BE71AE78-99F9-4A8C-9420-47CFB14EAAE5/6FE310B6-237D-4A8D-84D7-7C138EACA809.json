@@ -1,0 +1,155 @@
+{
+  "_class": "oval",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FE310B6-237D-4A8D-84D7-7C138EACA809",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "978290B1-7339-45DA-BEFE-B46E0D082D7D",
+    "height": 634.242606490345,
+    "width": 703.6543569866601,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Oval",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.69899837663928777, 1}",
+      "curveMode": 2,
+      "curveTo": "{0.20160749058880714, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.45030293361404733, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.89608297919492652, 0.42896074244635418}",
+      "curveMode": 3,
+      "curveTo": "{1.1430111361272344, 0.85812149540780691}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.9547103824305383, 0.53085507814848842}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.79166423349053938, -0.0098900914493673629}",
+      "curveMode": 3,
+      "curveTo": "{0.9360809520546628, 0.18988550193332121}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.87419263933398728, 0.10427370767463458}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.20160749058880714, 0.00022947097369493226}",
+      "curveMode": 3,
+      "curveTo": "{0.59242247944966209, 0.00022947097369493226}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.45030293361404733, 0.00022947097369493226}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.77619374372720118}",
+      "curveMode": 2,
+      "curveTo": "{0, 0.22403572724649434}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.50011473548684759}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "5E1ED97F-F6BA-4DB5-A861-587FA8E7969B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8828125,
+          "green": 0.4209069146050347,
+          "red": 0.4315254338095167
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 634.2426,
+            "enabled": 1,
+            "modelID": "constraint_947c2d32-f330-4b0b-8df6-25edb9701560",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 703.6544
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_823c1ba9-f535-4de0-a292-21cf0f508d74",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

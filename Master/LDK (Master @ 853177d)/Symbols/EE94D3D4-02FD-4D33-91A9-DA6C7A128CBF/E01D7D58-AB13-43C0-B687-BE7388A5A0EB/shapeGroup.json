@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E01D7D58-AB13-43C0-B687-BE7388A5A0EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "98A03F62-EC2F-48C7-8B16-A49A2F32C722",
+    "height": 17.5,
+    "width": 19.375,
+    "x": 2.3125,
+    "y": 3.25
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3E5758E0-6B72-49DC-AD15-4BDF048F0FD9"
+    },
+    {
+      "class": "shapePath",
+      "id": "D19802A6-3E7F-4100-9966-6166539EC39E"
+    },
+    {
+      "class": "shapePath",
+      "id": "97932D79-5484-4BF1-A1F8-0ECCD85F5856"
+    },
+    {
+      "class": "shapePath",
+      "id": "C0259364-3320-4022-A0C7-FDE448A6C920"
+    }
+  ],
+  "name": "taxi",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9FD36BB-650D-48AC-890B-633B13FA1BD5",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C59AE5F-D44C-4428-A519-21FDBAFAACC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3ECEB9B0-5CD0-4BA4-AABE-B260AA585575",
+    "height": 335,
+    "width": 597,
+    "x": 105,
+    "y": 734
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B9526FAE-3B0C-40F6-A897-807DFEA7DA3A"
+    },
+    {
+      "class": "text",
+      "id": "5D28372B-D2F7-4EE4-B6F5-829388657065"
+    },
+    {
+      "class": "text",
+      "id": "E051949F-23A4-4D16-9382-4D3DF833AD89"
+    }
+  ],
+  "name": "2: Molecules / Teaser / With text",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D8AC42C-35B1-47A8-96F7-9505F82F836A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
