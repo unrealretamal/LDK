@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "32AA5585-1CA8-4979-A3C6-D1457D8C31D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17FF2B35-0D53-4974-80BB-591AEF33BB2D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5CF9A6F-06CB-4E61-83BF-D38A8D059FA0",
+    "height": 13.48837209302325,
+    "width": 10.88000000000007,
+    "x": 417.8800000000001,
+    "y": 19.09302325581393
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "42326CFC-738F-4CE2-B3EA-B43355668155"
+    },
+    {
+      "class": "shapePath",
+      "id": "3190CA94-F32F-4246-800E-8BE4EF114FDA"
+    },
+    {
+      "class": "shapePath",
+      "id": "D247DB26-5B4C-4A69-AB94-4E08FB40BBBE"
+    }
+  ],
+  "name": "Fill 25",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F8942EC-2389-44F7-ACB5-A27E57FDB318",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7725490196078432,
+          "green": 0.615686274509804,
+          "red": 0.5725490196078431
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

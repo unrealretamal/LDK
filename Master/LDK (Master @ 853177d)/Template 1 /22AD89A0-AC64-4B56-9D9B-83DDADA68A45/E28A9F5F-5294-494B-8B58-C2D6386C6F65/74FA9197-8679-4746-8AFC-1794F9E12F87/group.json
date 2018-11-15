@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "74FA9197-8679-4746-8AFC-1794F9E12F87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "644D1291-C617-469C-8056-37352E62D43A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE61C97B-65E6-41AE-B547-76117443DEAC",
+    "height": 780,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "87D56245-A764-4846-80F6-F60FF5A36131"
+    },
+    {
+      "class": "group",
+      "id": "5C6B660A-918D-4BCD-87F1-9F55A0A2766C"
+    },
+    {
+      "class": "group",
+      "id": "4600B3B9-B2EC-4647-997B-0467502514A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC7FCB38-1963-4F44-994B-3713C470C82B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43D9A900-8AEB-4BD3-8555-D4A924EBB7BC"
+    },
+    {
+      "class": "group",
+      "id": "63CB66FB-0412-4D48-AF70-BFEB598FC028"
+    },
+    {
+      "class": "text",
+      "id": "5884AF7F-70EB-454E-AAF6-E4B978354428"
+    }
+  ],
+  "name": "4: Systems / contact / desktop ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67E4D5ED-B5BF-48AC-9178-24C1F9A85C3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
